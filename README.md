@@ -7,7 +7,14 @@ Fullscreen hero landing page for a creative agency — looping background video,
 - React 18 + TypeScript
 - Vite
 - Tailwind CSS v3
-- [lucide-react](https://lucide.dev/) for icons
+- [lucide-react] for icons
+## Features
+
+- Fullscreen looping background video with dark overlay
+- Custom typography: PODIUM Sharp display font + Inter for body/UI
+- Responsive navbar with mobile hamburger menu and animated overlay
+- Staggered fade-up entrance animations on load
+- Fully responsive (mobile / tablet / desktop breakpoints)
 
 ## Getting started
 
