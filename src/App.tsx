@@ -28,7 +28,7 @@ function App() {
       <div className="absolute inset-0 bg-black/40" />
 
       <div className="relative z-10 flex h-full flex-col">
-        <nav className="flex items-center justify-between px-6 py-5 sm:px-10 lg:px-16 lg:py-7">
+        <nav className="flex items-center justify-between gap-x-4 px-6 py-5 sm:px-10 lg:px-16 lg:py-7">
           <span className="font-podium text-2xl font-bold uppercase tracking-wider text-white sm:text-3xl">
             VANGUARD
           </span>
